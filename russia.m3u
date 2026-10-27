@@ -201,6 +201,8 @@ https://streaming.televizor-24-tochka.ru/live/11.m3u8
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Russia Neu",Carousel International (576p)
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="Russia Neu",Cartoon Classics
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://i.imgur.com/k8JjFDw.png" group-title="Russia Neu",Channel 10 (576i)
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="Russia Neu",Channel 12 (1080p)
