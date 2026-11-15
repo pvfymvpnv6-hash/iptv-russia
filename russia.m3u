@@ -224,8 +224,6 @@ https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/8VKc2Ya.png" group-title="Russia Neu",Channel 5 International (576p)
-http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/8VKc2Ya.png" group-title="Russia Neu",Channel 5 International (576p)
 https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="Russia Neu",Channel 8 (576p)
 http://45.11.139.43:8555/8kanal/index.m3u8
@@ -239,10 +237,6 @@ https://v4.proofix.ru/8tv-russia/index.m3u8
 #EXTVLCOPT:http-referrer=http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru@HD" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia Neu",Channel 8 Krasnoyarsk (1080p)
-#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru@SD" tvg-logo="https://i.imgur.com/eHGETvU.png" group-title="Russia Neu",Channel 8 Novosibirsk (480i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
@@ -273,8 +267,6 @@ https://streaming.televizor-24-tochka.ru/live/4.m3u8
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Channel16.ru@SD" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="Russia Neu",Channel-16 (Саров) (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Russia Neu",Che! (576p)
-http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Russia Neu",Che! (576p)
 http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Russia Neu",Che! (576p)
@@ -1162,8 +1154,6 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Russia Neu",REN TV (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="Russia Neu",REN TV International (576p)
-http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Russia Neu",Retro (576p)
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Russia Neu",Retro (576p)
@@ -1548,8 +1538,6 @@ https://streaming.televizor-24-tochka.ru/live/16.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Russia Neu",STS
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="Russia Neu",STS International (576p)
-http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Russia Neu",STS kids (1080p)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Russia Neu",STS kids (576p)
